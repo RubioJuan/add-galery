@@ -5,7 +5,7 @@
 
     -filter: Genera opacidad o cambio de color en un elemento.
 
-    -transform:A la hora de que el usuario pase el mouse por la imagen, esta con un numero especifico hace que la imagen se agarande.
+    -transform:A la hora de que el usuario pase el mouse por la imagen, esta con un numero especifico hace que la imagen se agrande.
 
 ¿Que funcion cumple las siguientes propiedades?
 
@@ -23,14 +23,14 @@
 
 ¿Que funcion cumple span en la regla grid-column y grid-row?
 
-    -grid-column: Esta especifica el tamaño y la ubicacion de una elemento en la cuadricula de una columna.
+    -grid-column: Esta especifica el tamaño y la ubicacion de un elemento en la cuadricula de una columna.
 
-    -grid-row: Esta especifica el tamaño y la ubicacion de una elemento en la cuadricula de una fila.
+    -grid-row: Esta especifica el tamaño y la ubicacion de un elemento en la cuadricula de una fila.
 
 ¿Que funcion cumplen las siguientes propiedades?
 
     -background-size:cover;:Esta hace que la imagen este mas cerca.
 
-    -background-position:center;:Logra que la imagen quede ene el centro de la pagina.
+    -background-position:center;:Logra que la imagen quede en el centro de la pagina.
 
     -background-repeat:no-repeat;: Se centra en que la imagen deje de repetirse.
